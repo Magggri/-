@@ -1,0 +1,25 @@
+.night{
+background-color: rgb(135, 20, 111);
+}
+.tema{
+display: block;
+padding-top: 40px;
+padding-left: 20px;
+padding-right: 20px;
+margin-top: 200px;
+width: 900px;
+height: 100px;
+font: Arial; color:rgb(20, 150, 200);
+}
+.song{
+display: block;
+font: Arial; color:rgb(250, 30, 57);
+background-color:rgb(20, 10, 123);
+width: 230px;
+height: 70px;
+padding-top: 50px;
+padding-left: 30px;
+padding-right: 30px;
+margin-top: 250px;
+
+}
