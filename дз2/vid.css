@@ -1,0 +1,28 @@
+.body {
+background-color: rgb(175, 238, 238);
+}
+.name {
+font: 50px, bold, Calibri; color:rgb(128, 128, 128);
+margin-top: 100px;
+margin-bottom: 50px;
+}
+.table{
+border-collapse: collapse;
+border: 5px solid rgb(123, 104, 238);
+width: 350px;
+background: rgb(221, 160, 221);
+font: 50px, bolder, Calibri; color:rgb(252, 252, 252);
+}
+.th, td {
+padding: 15px 30px;
+border: 5px solid rgb(123, 104, 238);
+font: 50px, bolder, Calibri; color:rgb(175, 238, 238);
+text-align: center;
+
+}
+.h2 {
+font: 50px, bold, Calibri; color:rgb(128, 128, 128);
+text-align:center;
+margin-left: 60px;
+margin-top: 30px;
+}
